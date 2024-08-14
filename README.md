@@ -1,2 +1,2 @@
 # Feedback-Adaptive Lossy Compression on-Node
-## Connor Ennis | SC24
+## Expanded evaluation of improved model performance, additional datasets, and edge region-clusters
